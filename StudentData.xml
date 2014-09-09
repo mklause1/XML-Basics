@@ -1,1 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  
+  <Student>
+    <StudentNumber>10009001</StudentNumber>
+    <FirstName>Collins</FirstName>
+    <LastName>Layton</LastName>
+    <DisplayName>Collins</DisplayName>
+    <Gender>M</Gender>
+    <Address>911 153 Ave.</Address>
+    <City>Edmonton</City>
+    <ProvinceState>AB</ProvinceState>
+    <CountryCode>CA</CountryCode>
+    <PostalCodeZip>T5Y 6C8</PostalCodeZip>
+   </Student>
+
+  <Student>
+    <StudentNumber>00000007</StudentNumber>
+    <FirstName>James</FirstName>
+    <LastName>Bond</LastName>
+    <DisplayName>James</DisplayName>
+    <Gender>M</Gender>
+    <Address>46 MI6 Ave</Address>
+    <City>London</City>
+    <ProvinceState>AB</ProvinceState>
+    <CountryCode>UK</CountryCode>
+    <PostalCodeZip>T5Y 6C8</PostalCodeZip>
+   </Student>
+
+</Students>
